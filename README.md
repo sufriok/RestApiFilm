@@ -14,11 +14,11 @@ passport:7.5.1 <br>
 -php artisan passport:install <br>
 -php artisan serve <br>
 
-<h5>Deskripsi</h5><br>
+Deskripsi<br>
 REST API yang dapat menyimpan data ke dalam database. Ada dua aktor yang digunakan
 yaitu admin dan user.<br>
 
-<h5>Fitur</h5><br>
+Fitur<br>
 - CRUD (create, read, update, delete) film. Operasi create, update dan delete hanya bisa di
 akses oleh admin.<br>
 - Menampilkan film yang sedang di tayang.<br>
