@@ -3,7 +3,7 @@
 CRUD Rest API
 
 Laravel 5.8 <br>
-PHP >= 7.1.3 <br>
+PHP 7.2.8 <br>
 passport:7.5.1 <br>
 
 copy ".env.example", rename to ".env" (setting database) <br>
