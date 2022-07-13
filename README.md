@@ -19,12 +19,12 @@ REST API yang dapat menyimpan data ke dalam database. Ada dua aktor yang digunak
 yaitu admin dan user.<br>
 
 Fitur<br>
-- CRUD (create, read, update, delete) film. Operasi create, update dan delete hanya bisa di
+-CRUD (create, read, update, delete) film. Operasi create, update dan delete hanya bisa di
 akses oleh admin.<br>
-- Menampilkan film yang sedang di tayang.<br>
-- Menampilkan film yang segera hadir (coming soon).<br>
-- User dapat melakukan register dan login menggunakan username.<br>
-- User dapat menyimpan film ke dalam daftar favorit.<br>
-- User dapat memberikan rating film dari 1 sampai 5.<br>
+-Menampilkan film yang sedang di tayang.<br>
+-Menampilkan film yang segera hadir (coming soon).<br>
+-User dapat melakukan register dan login menggunakan username.<br>
+-User dapat menyimpan film ke dalam daftar favorit.<br>
+-User dapat memberikan rating film dari 1 sampai 5.<br>
 
 
